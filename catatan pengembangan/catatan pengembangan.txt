@@ -1,0 +1,16 @@
+DONE
+Telah Login (set-get selesai)
+Telah Logout (set-get-selesai)
+Telah Update Data (set-get selesai)
+Telah Ganti Password  (set-get)
+Telah Ganti Foto (set-get selesai)
+
+update dari admin kepada alumni :
+maaf file bukan images
+
+FITUR PESAN Selesai
+--kurang error handling--
+
+Kepada (Penerima) -> 
+dibuat dropdown sesuai dengan username alumni
+-untuk menghindari ketidaksesuaian username yang dituju
